@@ -19,3 +19,13 @@
 
 # Picture of code
 ![](https://github.com/aniyahmoore28/Arduino/blob/main/Arduino%20Pictures/New%20Ping.png)
+
+# hello World
+# Reflection
+1. easy to get the hang of
+2. liked that i coould put any wording that i wanted
+3. something different
+4. another learnig obstacle
+
+# Picture of code
+![](https://github.com/aniyahmoore28/Arduino/blob/main/Arduino%20Pictures/Hello%20World.png)
