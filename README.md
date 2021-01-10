@@ -1,6 +1,6 @@
 # Arduino
 # Table of contents
-*[LED Blink Revivsited](#LED Blnk Revivsited)
+* [LED Blink Revivsited](#LED Blnk Revivsited)
 # LED Blink Revivsited
 # Reflection
 1. Over came a lot of troubles
