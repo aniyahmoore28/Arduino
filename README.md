@@ -39,3 +39,13 @@
 
 # Picture of code
 ![](https://github.com/aniyahmoore28/Arduino/blob/main/Arduino%20Pictures/Night%20Light.png)
+
+# Blinking LED
+# Reflection
+1. easy
+2. fun to do
+3. simallir to te LED reveisited but the blinking time is farter apert
+4. another easy brain refresh
+
+# Picture of code
+![](https://github.com/aniyahmoore28/Arduino/blob/main/Arduino%20Pictures/Blinking%20LED.png)
