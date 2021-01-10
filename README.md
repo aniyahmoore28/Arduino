@@ -43,7 +43,7 @@
 4. done in no time
 
 # Picture of code
-![](https://github.com/aniyahmoore28/Arduino/blob/main/Arduino%20Pictures/Night%20Light.png)
+![](https://github.com/aniyahmoore28/Arduino/blob/main/Arduino%20Pictures/Screenshot%202021-01-10%20at%201.31.11%20AM.png)
 
 # Blinking LED
 # Reflection
