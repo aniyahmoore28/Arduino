@@ -29,3 +29,13 @@
 
 # Picture of code
 ![](https://github.com/aniyahmoore28/Arduino/blob/main/Arduino%20Pictures/Hello%20World.png)
+
+# Night light
+# Reflection
+1. easy becuase all it had to do was turn on
+2. simple code was used
+3. kind of like a little refresher
+4. done in no time
+
+# Picture of code
+![](https://github.com/aniyahmoore28/Arduino/blob/main/Arduino%20Pictures/Night%20Light.png)
